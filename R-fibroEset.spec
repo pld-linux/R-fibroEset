@@ -2,12 +2,12 @@
 
 Summary:	exprSet for Karaman et al. (2003) fibroblasts data
 Name:		R-%{packname}
-Version:	1.4.8
+Version:	1.4.10
 Release:	1
 License:	LGPL
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/experiment/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	6dc1efaed7441246d44b14a3b44c39ed
+# Source0-md5:	0aff08f83abab03a3615800c421877bf
 URL:		http://www.bioconductor.org/packages/release/data/experiment/html/fibroEset.html
 BuildRequires:	R-Biobase
 BuildRequires:	R

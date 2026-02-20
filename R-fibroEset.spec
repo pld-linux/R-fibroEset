@@ -3,7 +3,7 @@
 Summary:	exprSet for Karaman et al. (2003) fibroblasts data
 Name:		R-%{packname}
 Version:	1.4.10
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Applications/Engineering
 Source0:	http://www.bioconductor.org/packages/release/data/experiment/src/contrib/%{packname}_%{version}.tar.gz
